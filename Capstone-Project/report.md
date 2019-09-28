@@ -6,5 +6,14 @@ The problem here is to determine which city can be named as the coffee shop capi
 
 ## Data
 
-For this project I, I will use Foursquare API to identify and map all coffee shops in Toronto and Vancouver. I will also use folium to map clusters. Additionally I will use Wikipedia information with postal codes to map the neighborhoods of both Vancouver and Toronto. The focus will be on both cities itself omitting the suburbs (although that would also be interesting) 
+For this project I will use Foursquare API to identify and map all coffee shops in Toronto and Vancouver. I will also use folium library to map the clusters. Additionally I will use Wikipedia information with postal codes to map the neighborhoods of both Vancouver and Toronto. The focus will be on both cities itself omitting the suburbs (although that would also be interesting) 
 
+
+Capstone project outline:
+ - First create a list of neighborhoods in Vancouver and Toronto with latitudes and longitudes
+ - Map all coffee shops in Toronto and Vancouver
+ - Determine how many residents and find a ratio between Vancouver and Toronto
+ - Use k-means clustering to categorize neighborhoods with coffee shops
+- Map independent vs chain coffee shops
+- Can also look at proximity to coworking spaces and tech startups
+- Conclusion
